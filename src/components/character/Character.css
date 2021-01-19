@@ -1,0 +1,17 @@
+.character{
+  padding: 5px 5px 0px 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  border: 3px solid antiquewhite;
+  border-radius: 5px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.character-name{
+  width: 100%;
+  padding: 2px;
+  margin-bottom: 5px;
+}
